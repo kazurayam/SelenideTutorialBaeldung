@@ -14,7 +14,7 @@ repositories {
 
 dependencies {
     // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
-    //testImplementation 'org.seleniumhq.selenium:selenium-java:4.14.1'
+    testImplementation 'org.seleniumhq.selenium:selenium-java:4.14.1'
 
     // https://mvnrepository.com/artifact/com.codeborne/selenide
     testImplementation 'com.codeborne:selenide:6.19.1'
