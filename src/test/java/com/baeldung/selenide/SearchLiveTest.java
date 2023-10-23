@@ -6,6 +6,10 @@ import org.openqa.selenium.By;
 import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.Condition.*;
 
+/**
+ * this code is quoted from a Baeldung article:
+ * https://www.baeldung.com/selenide
+ */
 public class SearchLiveTest {
 
     @Test

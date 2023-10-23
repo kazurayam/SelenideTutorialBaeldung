@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="SelenideTutorialBaeldung.app" target="17" />
+      <module name="SelenideTutorialBaeldung.app.main" target="17" />
+      <module name="SelenideTutorialBaeldung.app.test" target="17" />
+      <module name="SelenideTutorialBaeldung.buildSrc" target="1.8" />
+      <module name="SelenideTutorialBaeldung.buildSrc.main" target="1.8" />
+      <module name="SelenideTutorialBaeldung.buildSrc.test" target="1.8" />
+      <module name="SelenideTutorialBaeldung.list" target="17" />
+      <module name="SelenideTutorialBaeldung.list.main" target="17" />
+      <module name="SelenideTutorialBaeldung.list.test" target="17" />
+      <module name="SelenideTutorialBaeldung.utilities" target="17" />
+      <module name="SelenideTutorialBaeldung.utilities.main" target="17" />
+      <module name="SelenideTutorialBaeldung.utilities.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
